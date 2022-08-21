@@ -1,0 +1,9 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+function Hi Leelalakshmi(props) {
+  return <h1>Hi Leelalakshmi</h1>;
+}
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<Hi Leelalakshmi />);
